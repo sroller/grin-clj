@@ -4,9 +4,15 @@
 
 possible parameter types are NOAA [standard shef codes].
 
-* WT - water temperature
+* HG - 
+* HK - 
 * HR - stage height
-* QR - waterflow
+* LS - lake storage
 * PN - precipitation normal
+* QI - 
+* QR - waterflow
+* QT - 
+* TA - air temperature
+* WT - water temperature
 
 [standard shef codes]: http://www.nws.noaa.gov/om/water/resources/SHEF_CodeManual_5July2012.pdf
