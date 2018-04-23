@@ -6,6 +6,7 @@ possible parameter types are NOAA [standard shef codes].
 
 * HG - height, river stage
 * HK - height, lake above specific datum
+* HL - Elevation, natural lake
 * HR - stage height (not used)
 * LS - lake storage
 * PA - Pressure, athmospheric
